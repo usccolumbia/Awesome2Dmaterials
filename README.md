@@ -4,7 +4,7 @@ A curated list of resources dedicated to 2D materials.
 
 <!-- We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) -->
 
-Maintainers: [Rongzhi Dong](http://www.cse.sc.edu), [Jianjun Hu](http://www.cse.sc.edu/~jianjunh)
+Maintainers: [Rongzhi Dong](http://www.cse.sc.edu), [Jianjun Hu](http://www.cse.sc.edu/~jianjunh)  from University of South Carolina
 
 We are looking for more contributors and maintainers!
 
