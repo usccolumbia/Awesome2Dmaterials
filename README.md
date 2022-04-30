@@ -47,7 +47,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 
 ## Theory
 
-### Research Groups
+### DFT simulation
 - [DeepMind x UCL] [Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
  - [UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
  - [UC Berkeley] CS188 Artificial Intelligence by Pieter Abbeel
