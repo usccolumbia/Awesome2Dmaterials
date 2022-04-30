@@ -44,12 +44,12 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
  - [MATLAB Environment and GUI for Reinforcement Learning](http://www.cs.colostate.edu/~anderson/res/rl/matlabpaper/rl.html)
  
 
-## Research Labs
+## Researchers
  Labs
   - [MIT Graphene](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
 
- Researers
-  - [MIT Graphene](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
+ Researchers
+  - [Cao Yuan MIT](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
 
 
 ## Theory
