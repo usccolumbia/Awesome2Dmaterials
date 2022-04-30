@@ -33,15 +33,8 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 ## Codes
  - Codes for examples and exercises in Richard Sutton and Andrew Barto's Reinforcement Learning: An Introduction
     - [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-    - [MATLAB Code (BROKEN LINK)](http://waxworksmath.com/Authors/N_Z/Sutton/sutton.html)
-    - [C/Lisp Code](http://incompleteideas.net/book/code/code2nd.html)
-    - [Julia Code](https://github.com/Ju-jl/ReinforcementLearningAnIntroduction.jl)
-    - [Book](http://incompleteideas.net/book/RLbook2018.pdf)
-    - [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions)
- - Simulation code for Reinforcement Learning Control Problems
-    - [Pole-Cart Problem](http://pages.cs.wisc.edu/~finton/poledriver.html)
-    - [Q-learning Controller](http://pages.cs.wisc.edu/~finton/qcontroller.html)
- - [MATLAB Environment and GUI for Reinforcement Learning](http://www.cs.colostate.edu/~anderson/res/rl/matlabpaper/rl.html)
+ 
+ 
  
 
 ## Researchers
