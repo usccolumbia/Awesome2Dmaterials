@@ -27,7 +27,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
    - [Human Computer Interaction](#human-computer-interaction)
  - [Codes](#codes)
  - [Tutorials / Websites](#tutorials--websites)
- - [Online Demos](#online-demos)
+ - [Databases](#online-demos)
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
 ## Codes
@@ -169,7 +169,7 @@ Computer Games
   
 
 
-## Online Demos
+## Databases
  - [Real-world demonstrations of Reinforcement Learning](http://www.dcsc.tudelft.nl/~robotics/media.html)
  - [Deep Q-Learning Demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) - A deep Q learning demonstration using ConvNetJS
  - [Deep Q-Learning with Tensor Flow](https://github.com/nivwusquorum/tensorflow-deepq) - A deep Q learning demonstration using Google Tensorflow
