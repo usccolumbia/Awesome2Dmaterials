@@ -27,7 +27,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
    - [Human Computer Interaction](#human-computer-interaction)
  - [Codes](#codes)
  - [Tutorials / Websites](#tutorials--websites)
- - [Databases](#online-demos)
+ - [Databases](#Databases)
  - [Open Source Reinforcement Learning Platforms](#open-source-reinforcement-learning-platforms)
 
 ## Codes
