@@ -134,8 +134,6 @@ Thermoelectric materials
 
 Piezoelectric materials
   - Induced giant piezoelectricity in centrosymmetric oxides. Science 2022 [[Paper]](https://www.science.org/doi/10.1126/science.abm7497)
-  - Chess - Jonathan Baxter, Andrew Tridgell and Lex Weaver, "KnightCap" program using TD(λ) (1999) [[arXiv]](http://arxiv.org/pdf/cs/9901002v1.pdf)
-  - Chess - Matthew Lai, Giraffe: Using deep reinforcement learning to play chess (2015) [[arXiv]](http://arxiv.org/pdf/1509.01549v2.pdf)
 
 Computer Games
   - Atari 2600 Games - Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al., Human-level Control through Deep Reinforcement Learning (Nature 2015) [[DOI]](https://dx.doi.org/doi:10.1038/nature14236) [[Paper]](http://www.readcube.com/articles/10.1038%2Fnature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D) [[Code]](https://sites.google.com/a/deepmind.com/dqn/) [[Video]](https://www.youtube.com/watch?v=iqXKQf2BOSE)
