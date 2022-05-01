@@ -69,6 +69,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 ### Papers / Thesis
 Foundational Papers
  - Marvin Minsky, Steps toward Artificial Intelligence, Proceedings of the IRE, 1961. [[DOI]](https://dx.doi.org/10.1109/JRPROC.1961.287775) [[Paper]](http://staffweb.worc.ac.uk/DrC/Courses%202010-11/Comp%203104/Tutor%20Inputs/Session%209%20Prep/Reading%20material/Minsky60steps.pdf) (discusses issues in RL such as the "credit assignment problem")
+ - 
 
   
 Methods
@@ -124,6 +125,11 @@ Computer Games
  - [Deep Q-Learning Demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html) - A deep Q learning demonstration using ConvNetJS
  - [Deep Q-Learning with Tensor Flow](https://github.com/nivwusquorum/tensorflow-deepq) - A deep Q learning demonstration using Google Tensorflow
  - [Reinforcement Learning Demo](http://cs.stanford.edu/people/karpathy/reinforcejs/) - A reinforcement learning demo using reinforcejs by Andrej Karpathy
+ - [The Virtual 2D Materials Database (V2DB)](https://github.com/mcsorkun/V2DB)
+ - [Computational 2D Materials Database (C2DB)](https://cmrdb.fysik.dtu.dk/c2db/)
+ - [Materials Cloud two-dimensional crystals database (MC2D)](https://www.materialscloud.org/discover/mc2d/dashboard/ptable)
+ - [2DMatPedia](http://www.2dmatpedia.org/)
+
 
 
 ## Open Source Reinforcement Learning Platforms
