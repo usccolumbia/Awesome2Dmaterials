@@ -118,6 +118,12 @@ Methods
 
 ## Applications
 ### layered exotic superior materials
+Superconductors
+  - You, J. Y., Gu, B., Su, G., & Feng, Y. P. (2021). Two-dimensional topological superconductivity candidate in a van der Waals layered material. Physical Review B, 103(10), 104503. [[paper]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104503)
+  - Engineering symmetry breaking in 2D layered materials. [[paper]](https://arxiv.org/pdf/2011.09255)
+  - Lado, J. L., & Liljeroth, P. (2021). A layered unconventional superconductor. Nature Physics, 17(12), 1287-1288. [[paper]](https://www.nature.com/articles/s41567-021-01391-0)
+
+
 
 Thermoelectric materials
   - Su, Lizhong, Dongyang Wang, Sining Wang, Bingchao Qin, Yuping Wang, Yongxin Qin, Yang Jin, Cheng Chang, and Li-Dong Zhao. "High thermoelectric performance realized through manipulating layered phonon-electron decoupling." Science 375, no. 6587 (2022): 1385-1389. [paper](https://www.science.org/doi/abs/10.1126/science.abn8997)
