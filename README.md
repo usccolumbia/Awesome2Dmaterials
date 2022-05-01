@@ -68,8 +68,24 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
  
 ### Papers / Thesis
 Foundational Papers
- - Marvin Minsky, Steps toward Artificial Intelligence, Proceedings of the IRE, 1961. [[DOI]](https://dx.doi.org/10.1109/JRPROC.1961.287775) [[Paper]](http://staffweb.worc.ac.uk/DrC/Courses%202010-11/Comp%203104/Tutor%20Inputs/Session%209%20Prep/Reading%20material/Minsky60steps.pdf) (discusses issues in RL such as the "credit assignment problem")
- - 
+ - Marvin Minsky. Steps toward Artificial Intelligence, Proceedings of the IRE, 1961. [[DOI]](https://dx.doi.org/10.1109/JRPROC.1961.287775) [[Paper]](http://staffweb.worc.ac.uk/DrC/Courses%202010-11/Comp%203104/Tutor%20Inputs/Session%209%20Prep/Reading%20material/Minsky60steps.pdf) (discusses issues in RL such as the "credit assignment problem") 
+
+
+Recent Papers
+- Friedrich Rico, et al. Data-driven quest for two-dimensional non-van der Waals materials, Nano letters, 2022. [[DOI]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c03841)
+- Banik, Suvo, et al. Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials, ACS Applied Materials & Interfaces, 2021.[[DOI]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
+- Butler, Sheneve Z., et al. Progress, challenges, and opportunities in two-dimensional materials beyond graphene, ACS nano, 2013.[[DOI]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
+- Zhang, Xu, An Chen, and Zhen Zhou. High‐throughput computational screening of layered and two‐dimensional materials, Wiley Interdisciplinary Reviews: Computational Molecular Science 2019.[[Paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1385)
+- Shen, Lei, et al. High-throughput Discovery and Intelligent Design of 2D Functional Materials for Various Applications. arXiv preprint arXiv:2112.09347 (2021).[[DOI]](https://arxiv.org/pdf/2112.09347.pdf)
+- Ryu, Byunghoon, et al. Understanding, discovery, and synthesis of 2D materials enabled by machine learning, Chemical Society Reviews, 2022.[[DOI]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
+- Miao, Naihua, and Zhimei Sun. Computational design of two‐dimensional magnetic materials, Wiley Interdisciplinary Reviews: Computational Molecular Science, 2021.[[Paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1545)
+- Zhang, Xu, et al. Computational screening of 2D materials and rational design of heterojunctions for water splitting photocatalysts, Small Methods, 2018.[[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smtd.2017003590)
+- Tang, Xiao, Aijun Du, and Liangzhi Kou. Gas sensing and capturing based on two‐dimensional layered materials: Overview from theoretical perspective, Wiley Interdisciplinary Reviews: Computational Molecular Science ,2018.[[Paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1361)
+- Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. Machine learning for materials discovery: Two-dimensional topological insulators, Applied Physics Reviews, 2021.[[DOI]](https://arxiv.org/pdf/2107.07028.pdf)
+- Sorkun, Murat Cihan, et al. An artificial intelligence-aided virtual screening recipe for two-dimensional materials discovery, npj Computational Materials, 2020.[[DOI]](https://doi.org/10.1038/s41524-020-00375-7)[[Paper]](https://www.nature.com/articles/s41524-020-00375-7)
+- Gjerding, Morten Niklas, et al. Recent progress of the computational 2D materials database (C2DB), 2D Materials, 2021.[[DOI]](https://iopscience.iop.org/article/10.1088/2053-1583/ac1059/pdf)
+
+
 
   
 Methods
@@ -129,6 +145,7 @@ Computer Games
  - [Computational 2D Materials Database (C2DB)](https://cmrdb.fysik.dtu.dk/c2db/)
  - [Materials Cloud two-dimensional crystals database (MC2D)](https://www.materialscloud.org/discover/mc2d/dashboard/ptable)
  - [2DMatPedia](http://www.2dmatpedia.org/)
+ - [Automatic Flow for Materials Discovery(AFLOW materials database)](http://www.aflowlib.org/)
 
 
 
