@@ -43,6 +43,24 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 
  Researchers
   - [Cao Yuan MIT](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
+  - [Yuan Cao (Harvard University)](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ)
+  - [Eunha Lee (Samsung Electronics)](https://scholar.google.com/citations?hl=en&user=nXM39mIAAAAJ)
+  - [Jing Xia (University of California Irvine)](https://scholar.google.com/citations?hl=en&user=RKVu8e4AAAAJ)
+  - [Sadegh Rostamnia (Iran University of Science and Technology)](https://scholar.google.com/citations?hl=en&user=Vj1e8I8AAAAJ)
+  - [Ji-Hui Yang (Fudan University)](https://scholar.google.com/citations?hl=en&user=vkdFcR4AAAAJ)
+  - [Okhyun Nam (Korea Polytechnic University)](https://scholar.google.com/citations?hl=en&user=S6R0vIIAAAAJ)
+  - [Xuetao Gan (Northwestern Polytechnical University)](https://scholar.google.com/citations?hl=en&user=2-zLVxsAAAAJ)
+  - [Hiroyuki Kageshima (Shimane University)](https://scholar.google.com/citations?hl=en&user=mGy3EXcAAAAJ)
+  - [Chendong Zhang (Wuhan University)](https://scholar.google.com/citations?hl=en&user=c33INQkAAAAJ)
+  - [Kazunori Fujisawa (Shinshu University)](https://scholar.google.com/citations?hl=en&user=73t6DNQAAAAJ)
+  - [Jong Min Yuk (KAIST)](https://scholar.google.com/citations?hl=en&user=2kkkGbIAAAAJ)
+  - [Xin Gao (Stanford University)](https://scholar.google.com/citations?hl=en&user=DmGiNAMAAAAJ)
+  - [Xin Gai (City University of Hong Kong)](https://scholar.google.com/citations?hl=en&user=W15RDvEAAAAJ)
+  - [Shaowen Chen (Harvard University)](https://scholar.google.com/citations?hl=en&user=2uG0zbIAAAAJ)
+  - [Chang Goo Kang (Korea Atomic Energy Research Institute)](https://scholar.google.com/citations?hl=en&user=rU2yUl8AAAAJ)
+  - [Qingfeng Zhang (Xiangtan University)](https://scholar.google.com/citations?hl=en&user=XjDbJuQAAAAJ)
+  - [Haibo HU (Anhui University)](https://scholar.google.com/citations?hl=en&user=gz_iQekAAAAJ)
+  - [
 
 
 ## Theory
