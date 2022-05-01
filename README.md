@@ -60,7 +60,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
   - [Chang Goo Kang (Korea Atomic Energy Research Institute)](https://scholar.google.com/citations?hl=en&user=rU2yUl8AAAAJ)
   - [Qingfeng Zhang (Xiangtan University)](https://scholar.google.com/citations?hl=en&user=XjDbJuQAAAAJ)
   - [Haibo HU (Anhui University)](https://scholar.google.com/citations?hl=en&user=gz_iQekAAAAJ)
-  - [
+ 
 
 
 ## Theory
