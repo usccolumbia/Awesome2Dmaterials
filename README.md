@@ -117,9 +117,17 @@ Methods
     
 
 ## Applications
-### Game Playing
-Traditional Games
-  - Backgammon - Gerald Tesauro, "TD-Gammon" game play using TD(λ) (ACM 1995) [[Paper]](http://www.bkgm.com/articles/tesauro/tdl.html)
+### layered exotic superior materials
+
+Thermoelectric materials
+  - Su, Lizhong, Dongyang Wang, Sining Wang, Bingchao Qin, Yuping Wang, Yongxin Qin, Yang Jin, Cheng Chang, and Li-Dong Zhao. "High thermoelectric performance realized through manipulating layered phonon-electron decoupling." Science 375, no. 6587 (2022): 1385-1389. [paper](https://www.science.org/doi/abs/10.1126/science.abn8997)
+  - A promising thermoelectrics In4SnSe4 with a wide bandgap and cubic structure composited by layered SnSe and In4Se3
+  - Remarkable electron and phonon transports in low-cost SnS: A new promising thermoelectric material
+
+
+
+Piezoelectric materials
+  - Induced giant piezoelectricity in centrosymmetric oxides. Science 2022 [[Paper]](https://www.science.org/doi/10.1126/science.abm7497)
   - Chess - Jonathan Baxter, Andrew Tridgell and Lex Weaver, "KnightCap" program using TD(λ) (1999) [[arXiv]](http://arxiv.org/pdf/cs/9901002v1.pdf)
   - Chess - Matthew Lai, Giraffe: Using deep reinforcement learning to play chess (2015) [[arXiv]](http://arxiv.org/pdf/1509.01549v2.pdf)
 
