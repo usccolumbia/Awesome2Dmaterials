@@ -102,6 +102,11 @@ Recent Papers
 - Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. Machine learning for materials discovery: Two-dimensional topological insulators, Applied Physics Reviews, 2021.[[DOI]](https://arxiv.org/pdf/2107.07028.pdf)
 - Sorkun, Murat Cihan, et al. An artificial intelligence-aided virtual screening recipe for two-dimensional materials discovery, npj Computational Materials, 2020.[[DOI]](https://doi.org/10.1038/s41524-020-00375-7)[[Paper]](https://www.nature.com/articles/s41524-020-00375-7)
 - Gjerding, Morten Niklas, et al. Recent progress of the computational 2D materials database (C2DB), 2D Materials, 2021.[[DOI]](https://iopscience.iop.org/article/10.1088/2053-1583/ac1059/pdf)
+- Cai, Xingke, et al. Preparation of 2D material dispersions and their applications, Chemical Society Reviews, 2018.[[Paper]](https://pubs.rsc.org/en/content/articlehtml/2018/cs/c8cs00254a)
+- Zhao, Jijun, et al. Rise of silicene: A competitive 2D material, Progress in Materials Science, 2016.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0079642516300068)
+- Tan, Teng, et al. 2D material optoelectronics for information functional device applications: status and challenges, Advanced Science, 2020.[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
+- Rosenberger, Matthew R., et al. Nano-“squeegee” for the creation of clean 2D material interfaces, ACS applied materials & interfaces, 2018).[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
+- 
 
 
 
