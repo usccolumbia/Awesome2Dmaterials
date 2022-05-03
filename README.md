@@ -140,11 +140,13 @@ Thermoelectric materials
 Piezoelectric materials
   - Induced giant piezoelectricity in centrosymmetric oxides. Science 2022 [[Paper]](https://www.science.org/doi/10.1126/science.abm7497)
 
-Computer Games
-  - Atari 2600 Games - Volodymyr Mnih, Koray Kavukcuoglu, David Silver et al., Human-level Control through Deep Reinforcement Learning (Nature 2015) [[DOI]](https://dx.doi.org/doi:10.1038/nature14236) [[Paper]](http://www.readcube.com/articles/10.1038%2Fnature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D) [[Code]](https://sites.google.com/a/deepmind.com/dqn/) [[Video]](https://www.youtube.com/watch?v=iqXKQf2BOSE)
-  - Flappy Bird - Sarvagya Vaish, [Flappy Bird Reinforcement Learning](https://github.com/SarvagyaVaish/FlappyBirdRL) [[Video]](https://www.youtube.com/watch?v=xM62SpKAZHU)
-  
-
+Quantum materials
+  - Artificial intelligence for search and discovery of quantum materials
+  - Liu, Xiaolong, and Mark C. Hersam. "2D materials for quantum information science." Nature Reviews Materials 4, no. 10 (2019): 669-684.
+  - Understanding Heterogeneities in Quantum Materials
+  - Quantum materials discovery from a synthesis perspective [[paper]](https://www.nature.com/articles/nmat5010)
+  - The 2021 quantum materials roadmap [[paper]](https://iopscience.iop.org/article/10.1088/2515-7639/abb74e/meta)
+  - Understanding doping of quantum materials
 
 
 
