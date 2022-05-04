@@ -82,7 +82,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 
 
 ### Surveys
- - Leslie Pack Kaelbling, Michael L. Littman, Andrew W. Moore, Reinforcement Learning: A Survey (JAIR 1996) [[Paper]](https://www.jair.org/index.php/jair/article/download/10166/24110/)
+ - Understanding, discovery, and synthesis of 2D materials enabled by machine learning [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
  
 ### Papers / Thesis
 Foundational Papers
