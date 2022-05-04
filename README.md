@@ -90,6 +90,7 @@ Foundational Papers
 
 
 Recent Papers
+- Data-Driven Quest for Two-Dimensional Non-van der Waals Materials. Nano letters,2022 [[paper]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03841)
 - Friedrich Rico, et al. Data-driven quest for two-dimensional non-van der Waals materials, Nano letters, 2022. [[DOI]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c03841)
 - Banik, Suvo, et al. Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials, ACS Applied Materials & Interfaces, 2021.[[DOI]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
 - Butler, Sheneve Z., et al. Progress, challenges, and opportunities in two-dimensional materials beyond graphene, ACS nano, 2013.[[DOI]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
