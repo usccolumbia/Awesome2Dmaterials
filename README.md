@@ -39,6 +39,8 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 
 ## Researchers
  Labs
+  - [DavidBakerLab Univ.of Washington](https://www.bakerlab.org/)
+  - [MIT Coley group](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate)
   - [MIT Graphene](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
   - [Top materials informatics groups](https://github.com/ncfrey/resources/blob/main/groups.md)
 
