@@ -82,7 +82,13 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 ### Books
  - Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [[Book]](http://incompleteideas.net/book/ebook/the-book.html) [[Code]](http://incompleteideas.net/book/code/code.html)
  
-
+### Top Journals
+ - [npj Computational Materials]()
+ - [Nature Communications]()
+ - [Matters]()
+ - [JACS]()
+ - [J.of chemical physics]()
+ - [JCIM]()
 
 ### Surveys
  - Understanding, discovery, and synthesis of 2D materials enabled by machine learning [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
