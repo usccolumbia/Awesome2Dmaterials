@@ -83,6 +83,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 
 ### Surveys
  - Understanding, discovery, and synthesis of 2D materials enabled by machine learning [[Paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
+ - The Role of Machine Learning in the Understanding and Design of Materials. JACS 2022 [[paper]](https://pubs.acs.org/doi/10.1021/jacs.0c09105)
  
 ### Papers / Thesis
 Foundational Papers
