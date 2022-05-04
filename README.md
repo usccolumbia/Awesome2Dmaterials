@@ -166,12 +166,7 @@ Quantum materials
  
  ## Tutorials / Websites
   - Mance Harmon and Stephanie Harmon, [Reinforcement Learning: A Tutorial](http://old.nbu.bg/cogs/events/2000/Readings/Petrov/rltutorial.pdf)
-  - C. Igel, M.A. Riedmiller, et al., Reinforcement Learning in a Nutshell, ESANN, 2007. [[Paper]](http://image.diku.dk/igel/paper/RLiaN.pdf)
-  - UNSW - [Reinforcement Learning](http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html)
-    - [Introduction](http://www.cse.unsw.edu.au/~cs9417ml/RL1/introduction.html)
-    - [TD-Learning](http://www.cse.unsw.edu.au/~cs9417ml/RL1/tdlearning.html)
-    - [Q-Learning and SARSA](http://www.cse.unsw.edu.au/~cs9417ml/RL1/algorithms.html)
-    - [Applet for "Cat and Mouse" Game](http://www.cse.unsw.edu.au/~cs9417ml/RL1/applet.html)
+  - 
   
 
 
@@ -184,8 +179,10 @@ Quantum materials
 
 
 
-## Open Source Reinforcement Learning Platforms
-- [OpenAI gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms
+## Open Source Materials Informatics Platforms
+- [Materials Project](https://www.materialsproject.org)
+- [OQMD](www.oqmd.org)
+- [Aflow.org](aflow.org)
 
 
 ## valuable Contributors👩‍💻👨‍💻 :
