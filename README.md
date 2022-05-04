@@ -40,6 +40,7 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
 ## Researchers
  Labs
   - [MIT Graphene](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
+  - [Top materials informatics groups](https://github.com/ncfrey/resources/blob/main/groups.md)
 
  Researchers
   - [Cao Yuan MIT](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
@@ -181,9 +182,9 @@ Quantum materials
 
 ## Open Source Materials Informatics Platforms
 - [Materials Project](https://www.materialsproject.org)
-- [OQMD](www.oqmd.org)
-- [Aflow.org](aflow.org)
-
+- [OQMD](http://www.oqmd.org)
+- [Aflow.org](http://aflow.org)
+- [ICSD](https://icsd.products.fiz-karlsruhe.de/)
 
 ## valuable Contributors👩‍💻👨‍💻 :
 
