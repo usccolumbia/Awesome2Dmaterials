@@ -43,9 +43,11 @@ Please feel free to [pull requests](https://github.com/usccolumbia/awesome2dmate
   - [MIT Coley group](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate)
   - [MIT Graphene](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
   - [Top materials informatics groups](https://github.com/ncfrey/resources/blob/main/groups.md)
+  - [Wuhan University Nano lab FuLei](http://en.leifu.whu.edu.cn/)
 
  Researchers
   - [Cao Yuan MIT](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ&view_op=list_works&sortby=pubdate)
+  - [Fulei Wuhan Univ.](https://scholar.google.com/citations?hl=en&user=ENo0hsQAAAAJ&view_op=list_works&citft=1&email_for_op=hujianju%40gmail.com&sortby=pubdate)
   - [Yuan Cao (Harvard University)](https://scholar.google.com/citations?hl=en&user=kJhEIh0AAAAJ)
   - [Eunha Lee (Samsung Electronics)](https://scholar.google.com/citations?hl=en&user=nXM39mIAAAAJ)
   - [Jing Xia (University of California Irvine)](https://scholar.google.com/citations?hl=en&user=RKVu8e4AAAAJ)
