@@ -120,7 +120,53 @@ Recent Papers
 - Zhao, Jijun, et al. Rise of silicene: A competitive 2D material, Progress in Materials Science, 2016.[[Paper]](https://www.sciencedirect.com/science/article/pii/S0079642516300068)
 - Tan, Teng, et al. 2D material optoelectronics for information functional device applications: status and challenges, Advanced Science, 2020.[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
 - Rosenberger, Matthew R., et al. Nano-“squeegee” for the creation of clean 2D material interfaces, ACS applied materials & interfaces, 2018).[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
-- 
+- Shen, Lei, Jun Zhou, Tong Yang, Ming Yang, and Yuan Ping Feng. "High-Throughput Computational Discovery and Intelligent Design of Two-Dimensional Functional Materials for Various Applications." Accounts of Materials Research (2022).
+
+Jin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13 (2022): 7228-7235.
+
+Bhattacharya, Anupam, Ivan Timokhin, Ratnamala Chatterjee, Qian Yang, and Artem Mishchenko. "Machine learning approach to genome of two-dimensional materials with flat electronic bands." arXiv preprint arXiv:2207.09444 (2022).
+
+
+Vahdat, Mohammad Tohidi, Kumar Agrawal Varoon, and Giovanni Pizzi. "Machine-learning accelerated identification of exfoliable two-dimensional materials." arXiv preprint arXiv:2207.12118 (2022).
+
+Moustafa, Hadeel, Peter Mahler Larsen, Morten N. Gjerding, Jens Jørgen Mortensen, Kristian S. Thygesen, and Karsten W. Jacobsen. "Computational exfoliation of atomically thin one-dimensional materials with application to Majorana bound states." Physical Review Materials 6, no. 6 (2022): 064202.
+
+
+Deng, Jun, Jinbo Pan, Yanfang Zhang, Yuhui Li, Wenhan Dong, Jiatao Sun, and Shixuan Du. "Screening and Design of Bipolar Magnetic-Semiconducting Monolayers and Heterostructures." ACS Applied Electronic Materials 4, no. 7 (2022): 3232-3239.
+
+Zhang, Yannan, Yan Zhao, Hongying Hou, and Xiao-Hua Yu. "Data-Driven Design of a High-Performance, Two-Dimensional Graphene-Based Seawater Desalination Membrane."
+
+Wang, Rongyan, Zhenbin Wang, Lingxia Zhang, Qiang Wang, Zhengliang Zhao, Weimin Huang, and Jianlin Shi. "Computation-Aided Discovery and Synthesis of 2D PrOBr Photocatalyst." ACS Energy Letters 7 (2022): 1980-1986.
+
+Qian, Chen, Ke Zhou, Yunhai Xiong, Xiang Chen, and Zhi Li. "High-Throughput Discovery and Investigation of Auxetic Two-Dimensional Crystals." Chemistry of Materials (2022).
+
+Moustafa, Hadeel, Peter Mahler Larsen, Morten N. Gjerding, Jens Jørgen Mortensen, Kristian S. Thygesen, and Karsten W. Jacobsen. "Computational exfoliation of atomically thin 1D materials with application to Majorana bound states." arXiv preprint arXiv:2204.00472 (2022).
+
+Kastuar, S. M., C. E. Ekuma, and Z-L. Liu. "Efficient prediction of temperature-dependent elastic and mechanical properties of 2D materials." Scientific reports 12, no. 1 (2022): 1-8.
+[focus on property prediction of layered/2D materials]
+
+Jeon, Sunam, and Youngkuk Kim. "Two-dimensional weak topological insulators in inversion-symmetric crystals." Physical Review B 105, no. 12 (2022): L121101.
+
+Li, Shunning, Zhefeng Chen, Zhi Wang, Mouyi Weng, Jianyuan Li, Mingzheng Zhang, Jing Lu, Kang Xu, and Feng Pan. "Graph-based discovery and analysis of atomic-scale one-dimensional materials." National Science Review 9, no. 6 (2022): nwac028.
+
+Nascimento, Gabriel M., Elton Ogoshi, Adalberto Fazzio, Carlos Mera Acosta, and Gustavo M. Dalpian. "High-throughput inverse design and Bayesian optimization of functionalities: spin splitting in two-dimensional compounds." Scientific data 9, no. 1 (2022): 1-18.
+
+Zheng, Weiran, and Lawrence Yoon Suk Lee. "Beyond sonication: Advanced exfoliation methods for scalable production of 2D materials." Matter (2022).
+
+
+Kabiraj, Arnab, and Santanu Mahapatra. "High-throughput assessment of two-dimensional electrode materials for energy storage devices." Cell Reports Physical Science 3, no. 1 (2022): 100718.
+
+
+Sherrell, Peter C., Marco Fronzi, Nick A. Shepelin, Alexander Corletto, David A. Winkler, Mike Ford, Joseph G. Shapter, and Amanda V. Ellis. "A bright future for engineering piezoelectric 2D crystals." Chemical Society Reviews (2022).
+
+Lu, Shuaihua, Qionghua Zhou, Yilv Guo, and Jinlan Wang. "On-the-fly interpretable machine learning for rapid discovery of two-dimensional ferromagnets with high Curie temperature." Chem 8, no. 3 (2022): 769-783.
+
+Wan, Zhongyu, and Quan-De Wang. "Machine Learning Prediction of the Exfoliation Energies of Two-Dimension Materials via Data-Driven Approach." The Journal of Physical Chemistry Letters 12, no. 46 (2021): 11470-11475.
+
+Stanev, Valentin, Kamal Choudhary, Aaron Gilad Kusne, Johnpierre Paglione, and Ichiro Takeuchi. "Artificial intelligence for search and discovery of quantum materials." Communications Materials 2, no. 1 (2021): 1-11.
+
+
+
 
 
 
