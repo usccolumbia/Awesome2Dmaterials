@@ -102,6 +102,7 @@ Foundational Papers
 
 
 Recent Papers
+- Zhou, Jun, Lei Shen, Miguel Dias Costa, Kristin A. Persson, Shyue Ping Ong, Patrick Huck, Yunhao Lu et al. "2DMatPedia, an open computational database of two-dimensional materials from top-down and bottom-up approaches." Scientific data 6, no. 1 (2019): 1-10. (Univ. of Singapore)
 - Data-Driven Quest for Two-Dimensional Non-van der Waals Materials. Nano letters,2022 [[paper]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03841)
 - Friedrich Rico, et al. Data-driven quest for two-dimensional non-van der Waals materials, Nano letters, 2022. [[DOI]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c03841)
 - Banik, Suvo, et al. Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials, ACS Applied Materials & Interfaces, 2021.[[DOI]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
