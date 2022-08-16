@@ -102,6 +102,7 @@ Foundational Papers
 
 
 Recent Papers
+- Mounet, Nicolas, Marco Gibertini, Philippe Schwaller, Davide Campi, Andrius Merkys, Antimo Marrazzo, Thibault Sohier et al. "Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds." Nature nanotechnology 13, no. 3 (2018): 246-252.
 - Zhou, Jun, Lei Shen, Miguel Dias Costa, Kristin A. Persson, Shyue Ping Ong, Patrick Huck, Yunhao Lu et al. "2DMatPedia, an open computational database of two-dimensional materials from top-down and bottom-up approaches." Scientific data 6, no. 1 (2019): 1-10. (Univ. of Singapore)
 - Data-Driven Quest for Two-Dimensional Non-van der Waals Materials. Nano letters,2022 [[paper]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03841)
 - Friedrich Rico, et al. Data-driven quest for two-dimensional non-van der Waals materials, Nano letters, 2022. [[DOI]](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c03841)
@@ -121,8 +122,8 @@ Recent Papers
 - Tan, Teng, et al. 2D material optoelectronics for information functional device applications: status and challenges, Advanced Science, 2020.[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
 - Rosenberger, Matthew R., et al. Nano-“squeegee” for the creation of clean 2D material interfaces, ACS applied materials & interfaces, 2018).[[Paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
 - Shen, Lei, Jun Zhou, Tong Yang, Ming Yang, and Yuan Ping Feng. "High-Throughput Computational Discovery and Intelligent Design of Two-Dimensional Functional Materials for Various Applications." Accounts of Materials Research (2022).
-
-Jin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13 (2022): 7228-7235.
+- Huang, Xiaohe, Chunsen Liu, and Peng Zhou. "2D semiconductors for specific electronic applications: from device to system." npj 2D Materials and Applications 6, no. 1 (2022): 1-19.
+- Jin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13 (2022): 7228-7235.
 
 Bhattacharya, Anupam, Ivan Timokhin, Ratnamala Chatterjee, Qian Yang, and Artem Mishchenko. "Machine learning approach to genome of two-dimensional materials with flat electronic bands." arXiv preprint arXiv:2207.09444 (2022).
 
