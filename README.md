@@ -102,6 +102,8 @@ Foundational Papers
 
 
 Recent Papers
+- Haastrup, Sten, Mikkel Strange, Mohnish Pandey, Thorsten Deilmann, Per S. Schmidt, Nicki F. Hinsche, Morten N. Gjerding et al. "The Computational 2D Materials Database: high-throughput modeling and discovery of atomically thin crystals." 2D Materials 5, no. 4 (2018): 042002. [[paper]](https://iopscience.iop.org/article/10.1088/2053-1583/aacfc1/meta) [C2DB]
+
 - Mounet, Nicolas, Marco Gibertini, Philippe Schwaller, Davide Campi, Andrius Merkys, Antimo Marrazzo, Thibault Sohier et al. "Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds." Nature nanotechnology 13, no. 3 (2018): 246-252.
 - Zhou, Jun, Lei Shen, Miguel Dias Costa, Kristin A. Persson, Shyue Ping Ong, Patrick Huck, Yunhao Lu et al. "2DMatPedia, an open computational database of two-dimensional materials from top-down and bottom-up approaches." Scientific data 6, no. 1 (2019): 1-10. (Univ. of Singapore)
 - Data-Driven Quest for Two-Dimensional Non-van der Waals Materials. Nano letters,2022 [[paper]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03841)
