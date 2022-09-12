@@ -265,6 +265,7 @@ Quantum materials
 - [OQMD](http://www.oqmd.org)
 - [Aflow.org](http://aflow.org)
 - [ICSD](https://icsd.products.fiz-karlsruhe.de/)
+- [Materials Cloud](https://www.materialscloud.org/)
 
 ## valuable Contributors👩‍💻👨‍💻 :
 
