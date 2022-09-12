@@ -129,7 +129,7 @@ Recent Papers
 
 - Butler, Sheneve Z., et al. Progress, challenges, and opportunities in two-dimensional materials beyond graphene, ACS nano, 2013.[[paper]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
 - Zhang, Xu, An Chen, and Zhen Zhou. High‐throughput computational screening of layered and two‐dimensional materials, Wiley Interdisciplinary Reviews: Computational Molecular Science 2019.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1385)
-- Shen, Lei, et al. High-throughput Discovery and Intelligent Design of 2D Functional Materials for Various Applications. arXiv preprint arXiv:2112.09347 (2021).[[paper]](https://arxiv.org/pdf/2112.09347.pdf)
+
 - Ryu, Byunghoon, et al. Understanding, discovery, and synthesis of 2D materials enabled by machine learning, Chemical Society Reviews, 2022.[[paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
 - Miao, Naihua, and Zhimei Sun. Computational design of two‐dimensional magnetic materials, Wiley Interdisciplinary Reviews: Computational Molecular Science, 2021.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1545)
 - Zhang, Xu, et al. Computational screening of 2D materials and rational design of heterojunctions for water splitting photocatalysts, Small Methods, 2018.[[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smtd.2017003590)
