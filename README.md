@@ -106,11 +106,27 @@ Recent Papers
 - Gjerding, Morten Niklas, Alireza Taghizadeh, Asbjørn Rasmussen, Sajid Ali, Fabian Bertoldo, Thorsten Deilmann, Nikolaj Rørbæk Knøsgaard et al. "Recent progress of the computational 2D materials database (C2DB)." 2D Materials 8, no. 4 (2021): 044002.[[paper]](https://iopscience.iop.org/article/10.1088/2053-1583/ac1059)[C2DB]
 - Mounet, Nicolas, Marco Gibertini, Philippe Schwaller, Davide Campi, Andrius Merkys, Antimo Marrazzo, Thibault Sohier et al. "Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds." Nature nanotechnology 13, no. 3 (2018): 246-252.[[paper]](https://doi.org/10.1038/s41565-017-0035-5) [MC2D]
 - Zhou, Jun, Lei Shen, Miguel Dias Costa, Kristin A. Persson, Shyue Ping Ong, Patrick Huck, Yunhao Lu et al. "2DMatPedia, an open computational database of two-dimensional materials from top-down and bottom-up approaches." Scientific data 6, no. 1 (2019): 1-10.[[paper]](https://www.nature.com/articles/s41597-019-0097-3) [2DMatPedia](Univ. of Singapore)
-- Sorkun, Murat Cihan, Séverin Astruc, J. M. Koelman, and Süleyman Er. "An artificial intelligence-aided virtual screening recipe for two-dimensional materials discovery." npj Computational Materials 6, no. 1 (2020): 1-10.[[paper]](https://www.nature.com/articles/s41524-020-00375-7)[V2DB]
+- Sorkun, Murat Cihan, Séverin Astruc, J. M. Koelman, and Süleyman Er. "An artificial intelligence-aided virtual screening recipe for two-dimensional materials discovery." npj Computational Materials 6, no. 1 (2020): 1-10.[[paper]](https://www.nature.com/articles/s41524-020-00375-7)[[code]](https://codeocean.com/capsule/1275530/tree/v1)[V2DB]
+
 - Friedrich, Rico, Mahdi Ghorbani-Asl, Stefano Curtarolo, and Arkady V. Krasheninnikov. "Data-driven quest for two-dimensional non-van der Waals materials." Nano Letters 22, no. 3 (2022): 989-997. [[paper]](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03841)
 - Lyngby, Peder, and Kristian Sommer Thygesen. "Data-driven discovery of novel 2D materials by deep generative models." arXiv preprint arXiv:2206.12159 (2022).[[paper]](https://arxiv.org/pdf/2206.12159.pdf)
+- Vahdat, Mohammad Tohidi, Kumar Agrawal Varoon, and Giovanni Pizzi. "Machine-learning accelerated identification of exfoliable two-dimensional materials." arXiv preprint arXiv:2207.12118 (2022).[[paper]](https://arxiv.org/pdf/2207.12118.pdf)
+- Shen, Lei, Jun Zhou, Tong Yang, Ming Yang, and Yuan Ping Feng. "High-Throughput Computational Discovery and Intelligent Design of Two-Dimensional Functional Materials for Various Applications." Accounts of Materials Research (2022).[[paper]](https://pubs.acs.org/doi/full/10.1021/accountsmr.1c00246)
+- Wang, Yanchao, Maosheng Miao, Jian Lv, Li Zhu, Ketao Yin, Hanyu Liu, and Yanming Ma. "An effective structure prediction method for layered materials based on 2D particle swarm optimization algorithm." The Journal of chemical physics 137, no. 22 (2012): 224108.[[paper]](https://aip.scitation.org/doi/full/10.1063/1.4769731)
+- Miró, Pere, Martha Audiffred, and Thomas Heine. "An atlas of two-dimensional materials." Chemical Society Reviews 43, no. 18 (2014): 6537-6554.[[paper]](https://pubs.rsc.org/en/content/articlehtml/2014/cs/c4cs00102h)
+- Bassman, Lindsay, Pankaj Rajak, Rajiv K. Kalia, Aiichiro Nakano, Fei Sha, Jifeng Sun, David J. Singh et al. "Active learning for accelerated design of layered materials." npj Computational Materials 4, no. 1 (2018): 1-9.[[paper]](https://www.nature.com/articles/s41524-018-0129-0)
+- Gao, Pengyue, Bo Gao, Shaohua Lu, Hanyu Liu, Jian Lv, Yanchao Wang, and Yanming Ma. "Structure search of two-dimensional systems using CALYPSO methodology." Frontiers of Physics 17, no. 2 (2022): 1-14.[[paper]](https://link.springer.com/article/10.1007/s11467-021-1109-2)
+- Shen, Zhen-Xiong, Chuanxun Su, and Lixin He. "High-throughput computation and structure prototype analysis for two-dimensional ferromagnetic materials." npj Comput Mater 8, 132 (2022).[[paper]](https://www.nature.com/articles/s41524-022-00813-8.pdf)
+- Bu, Saiyu, Nan Yao, Michelle A. Hunter, Debra J. Searles, and Qinghong Yuan. "Design of two-dimensional carbon-nitride structures by tuning the nitrogen concentration." npj Computational Materials 6, no. 1 (2020): 1-8.[[paper]](https://www.nature.com/articles/s41524-020-00393-5)
+- Kabiraj, Arnab, Mayank Kumar, and Santanu Mahapatra. "High-throughput discovery of high Curie point two-dimensional ferromagnetic materials." npj Computational Materials 6, no. 1 (2020): 1-9.[[paper]](https://www.nature.com/articles/s41524-020-0300-2)
+- Fung, Victor, Jiaxin Zhang, Guoxiang Hu, Panchapakesan Ganesh, and Bobby G. Sumpter. "Inverse design of two-dimensional materials with invertible neural networks." npj Computational Materials 7, no. 1 (2021): 1-9.[[paper]](https://www.nature.com/articles/s41524-021-00670-x)
+- Qian, Chen, Ke Zhou, Yunhai Xiong, Xiang Chen, and Zhi Li. "High-Throughput Discovery and Investigation of Auxetic Two-Dimensional Crystals." Chemistry of Materials (2022).[[paper]](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c04229)
+- Zeng, Mengqi, Jinxin Liu, Lu Zhou, Rafael G. Mendes, Yongqi Dong, Min-Ye Zhang, Zhi-Hao Cui et al. "Bandgap tuning of two-dimensional materials by sphere diameter engineering." Nature Materials 19, no. 5 (2020): 528-533.[[paper]](https://www.nature.com/articles/s41563-020-0622-y)
+- 
+- Banik, Suvo, Troy David Loeffler, Rohit Batra, Harpal Singh, Mathew J. Cherukara, and Subramanian KRS Sankaranarayanan. "Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials." ACS Applied Materials & Interfaces 13, no. 30 (2021): 36455-36464.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
+- Malyi, Oleksandr I., Kostiantyn V. Sopiha, and Clas Persson. "Energy, phonon, and dynamic stability criteria of two-dimensional materials." ACS applied materials & interfaces 11, no. 28 (2019): 24876-24884.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.9b01261)
 
-- Banik, Suvo, et al. Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials, ACS Applied Materials & Interfaces, 2021.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
+
 - Butler, Sheneve Z., et al. Progress, challenges, and opportunities in two-dimensional materials beyond graphene, ACS nano, 2013.[[paper]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
 - Zhang, Xu, An Chen, and Zhen Zhou. High‐throughput computational screening of layered and two‐dimensional materials, Wiley Interdisciplinary Reviews: Computational Molecular Science 2019.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1385)
 - Shen, Lei, et al. High-throughput Discovery and Intelligent Design of 2D Functional Materials for Various Applications. arXiv preprint arXiv:2112.09347 (2021).[[paper]](https://arxiv.org/pdf/2112.09347.pdf)
@@ -120,12 +136,15 @@ Recent Papers
 - Tang, Xiao, Aijun Du, and Liangzhi Kou. Gas sensing and capturing based on two‐dimensional layered materials: Overview from theoretical perspective, Wiley Interdisciplinary Reviews: Computational Molecular Science ,2018.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1361)
 - Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. Machine learning for materials discovery: Two-dimensional topological insulators, Applied Physics Reviews, 2021.[[paper]](https://arxiv.org/pdf/2107.07028.pdf)
 
-- Gjerding, Morten Niklas, et al. Recent progress of the computational 2D materials database (C2DB), 2D Materials, 2021.[[paper]](https://iopscience.iop.org/article/10.1088/2053-1583/ac1059/pdf)
 - Cai, Xingke, et al. Preparation of 2D material dispersions and their applications, Chemical Society Reviews, 2018.[[paper]](https://pubs.rsc.org/en/content/articlehtml/2018/cs/c8cs00254a)
 - Zhao, Jijun, et al. Rise of silicene: A competitive 2D material, Progress in Materials Science, 2016.[[paper]](https://www.sciencedirect.com/science/article/pii/S0079642516300068)
 - Tan, Teng, et al. 2D material optoelectronics for information functional device applications: status and challenges, Advanced Science, 2020.[[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
 - Rosenberger, Matthew R., et al. Nano-“squeegee” for the creation of clean 2D material interfaces, ACS applied materials & interfaces, 2018).[[paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
-- Shen, Lei, Jun Zhou, Tong Yang, Ming Yang, and Yuan Ping Feng. "High-Throughput Computational Discovery and Intelligent Design of Two-Dimensional Functional Materials for Various Applications." Accounts of Materials Research (2022).
+
+
+
+- Yedukondalu, N., Aamir Shafique, S. C. Rakesh Roshan, Mohamed Barhoumi, Rajmohan Muthaiah, Lars Ehm, John B. Parise, and Udo Schwingenschlögl. "Lattice Instability and Ultralow Lattice Thermal Conductivity of Layered PbIF." ACS Applied Materials & Interfaces (2022).[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.2c01135)
+- 
 - Huang, Xiaohe, Chunsen Liu, and Peng Zhou. "2D semiconductors for specific electronic applications: from device to system." npj 2D Materials and Applications 6, no. 1 (2022): 1-19.
 - Jin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13 (2022): 7228-7235.
 
