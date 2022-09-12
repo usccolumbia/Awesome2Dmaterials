@@ -237,7 +237,6 @@ Quantum materials
  - [Computational 2D Materials Database (C2DB)](https://cmrdb.fysik.dtu.dk/c2db/)
  - [Materials Cloud two-dimensional crystals database (MC2D)](https://www.materialscloud.org/discover/mc2d/dashboard/ptable)
  - [2DMatPedia](http://www.2dmatpedia.org/)
- - [Automatic Flow for Materials Discovery(AFLOW materials database)](http://www.aflowlib.org/)
 
 
 
