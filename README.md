@@ -132,7 +132,7 @@ Recent Papers
 
 - Ryu, Byunghoon, et al. Understanding, discovery, and synthesis of 2D materials enabled by machine learning, Chemical Society Reviews, 2022.[[paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
 - Miao, Naihua, and Zhimei Sun. Computational design of two‐dimensional magnetic materials, Wiley Interdisciplinary Reviews: Computational Molecular Science, 2021.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1545)
-- Zhang, Xu, et al. Computational screening of 2D materials and rational design of heterojunctions for water splitting photocatalysts, Small Methods, 2018.[[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smtd.2017003590)
+- Zhang, Xu, et al. Computational screening of 2D materials and rational design of heterojunctions for water splitting photocatalysts, Small Methods, 2018.[[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.201700359)
 - Tang, Xiao, Aijun Du, and Liangzhi Kou. Gas sensing and capturing based on two‐dimensional layered materials: Overview from theoretical perspective, Wiley Interdisciplinary Reviews: Computational Molecular Science ,2018.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1361)
 - Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. Machine learning for materials discovery: Two-dimensional topological insulators, Applied Physics Reviews, 2021.[[paper]](https://arxiv.org/pdf/2107.07028.pdf)
 
