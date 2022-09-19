@@ -125,69 +125,59 @@ Recent Papers
 - 
 - Banik, Suvo, Troy David Loeffler, Rohit Batra, Harpal Singh, Mathew J. Cherukara, and Subramanian KRS Sankaranarayanan. "Learning with Delayed Rewards—A Case Study on Inverse Defect Design in 2D Materials." ACS Applied Materials & Interfaces 13, no. 30 (2021): 36455-36464.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.1c07545)
 - Malyi, Oleksandr I., Kostiantyn V. Sopiha, and Clas Persson. "Energy, phonon, and dynamic stability criteria of two-dimensional materials." ACS applied materials & interfaces 11, no. 28 (2019): 24876-24884.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.9b01261)
-
-
-- Butler, Sheneve Z., et al. Progress, challenges, and opportunities in two-dimensional materials beyond graphene, ACS nano, 2013.[[paper]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
-- Zhang, Xu, An Chen, and Zhen Zhou. High‐throughput computational screening of layered and two‐dimensional materials, Wiley Interdisciplinary Reviews: Computational Molecular Science 2019.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1385)
-
-- Ryu, Byunghoon, et al. Understanding, discovery, and synthesis of 2D materials enabled by machine learning, Chemical Society Reviews, 2022.[[paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
+- Butler, Sheneve Z., Shawna M. Hollen, Linyou Cao, Yi Cui, Jay A. Gupta, Humberto R. Gutiérrez, Tony F. Heinz et al. "Progress, challenges, and opportunities in two-dimensional materials beyond graphene." ACS nano 7, no. 4 (2013): 2898-2926.[[paper]](https://pubs.acs.org/doi/full/10.1021/nn400280c)
+- Zhang, Xu, An Chen, and Zhen Zhou. "High‐throughput computational screening of layered and two‐dimensional materials." Wiley Interdisciplinary Reviews: Computational Molecular Science 9, no. 1 (2019): e1385.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1385)
+- Ryu, Byunghoon, Luqing Wang, Haihui Pu, Maria KY Chan, and Junhong Chen. "Understanding, discovery, and synthesis of 2D materials enabled by machine learning." Chemical Society Reviews (2022).[[paper]](https://pubs.rsc.org/en/content/articlelanding/2022/cs/d1cs00503k)
 - Miao, Naihua, and Zhimei Sun. Computational design of two‐dimensional magnetic materials, Wiley Interdisciplinary Reviews: Computational Molecular Science, 2021.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1545)
-- Zhang, Xu, et al. Computational screening of 2D materials and rational design of heterojunctions for water splitting photocatalysts, Small Methods, 2018.[[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.201700359)
-- Tang, Xiao, Aijun Du, and Liangzhi Kou. Gas sensing and capturing based on two‐dimensional layered materials: Overview from theoretical perspective, Wiley Interdisciplinary Reviews: Computational Molecular Science ,2018.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1361)
-- Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. Machine learning for materials discovery: Two-dimensional topological insulators, Applied Physics Reviews, 2021.[[paper]](https://arxiv.org/pdf/2107.07028.pdf)
-
-- Cai, Xingke, et al. Preparation of 2D material dispersions and their applications, Chemical Society Reviews, 2018.[[paper]](https://pubs.rsc.org/en/content/articlehtml/2018/cs/c8cs00254a)
-- Zhao, Jijun, et al. Rise of silicene: A competitive 2D material, Progress in Materials Science, 2016.[[paper]](https://www.sciencedirect.com/science/article/pii/S0079642516300068)
-- Tan, Teng, et al. 2D material optoelectronics for information functional device applications: status and challenges, Advanced Science, 2020.[[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
-- Rosenberger, Matthew R., et al. Nano-“squeegee” for the creation of clean 2D material interfaces, ACS applied materials & interfaces, 2018).[[paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
-
-
-
+- Miao, Naihua, and Zhimei Sun. "Computational design of two‐dimensional magnetic materials." Wiley Interdisciplinary Reviews: Computational Molecular Science 12, no. 2 (2022): e1545.[[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.201700359)
+- Tang, Xiao, Aijun Du, and Liangzhi Kou. "Gas sensing and capturing based on two‐dimensional layered materials: Overview from theoretical perspective." Wiley Interdisciplinary Reviews: Computational Molecular Science 8, no. 4 (2018): e1361.[[paper]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1361)
+- Schleder, Gabriel R., Bruno Focassio, and Adalberto Fazzio. "Machine learning for materials discovery: Two-dimensional topological insulators." Applied Physics Reviews 8, no. 3 (2021): 031409.[[paper]](https://arxiv.org/pdf/2107.07028.pdf)
+-Cai, Xingke, Yuting Luo, Bilu Liu, and Hui-Ming Cheng. "Preparation of 2D material dispersions and their applications." Chemical Society Reviews 47, no. 16 (2018): 6224-6266.[[paper]](https://pubs.rsc.org/en/content/articlehtml/2018/cs/c8cs00254a)
+- Zhao, Jijun, Hongsheng Liu, Zhiming Yu, Ruge Quhe, Si Zhou, Yangyang Wang, Cheng Cheng Liu et al. "Rise of silicene: A competitive 2D material." Progress in Materials Science 83 (2016): 24-151.[[paper]](https://www.sciencedirect.com/science/article/pii/S0079642516300068)
+- Tan, Teng, Xiantao Jiang, Cong Wang, Baicheng Yao, and Han Zhang. "2D material optoelectronics for information functional device applications: status and challenges." Advanced Science 7, no. 11 (2020): 2000058.[[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202000058)
+- Rosenberger, Matthew R., Hsun-Jen Chuang, Kathleen M. McCreary, Aubrey T. Hanbicki, Saujan V. Sivaram, and Berend T. Jonker. "Nano-“squeegee” for the creation of clean 2D material interfaces." ACS applied materials & interfaces 10, no. 12 (2018): 10379-10387.[[paper]](https://pubs.acs.org/doi/abs/10.1021/acsami.8b01224)
 - Yedukondalu, N., Aamir Shafique, S. C. Rakesh Roshan, Mohamed Barhoumi, Rajmohan Muthaiah, Lars Ehm, John B. Parise, and Udo Schwingenschlögl. "Lattice Instability and Ultralow Lattice Thermal Conductivity of Layered PbIF." ACS Applied Materials & Interfaces (2022).[[paper]](https://pubs.acs.org/doi/full/10.1021/acsami.2c01135)
-- 
-- Huang, Xiaohe, Chunsen Liu, and Peng Zhou. "2D semiconductors for specific electronic applications: from device to system." npj 2D Materials and Applications 6, no. 1 (2022): 1-19.
-- Jin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13 (2022): 7228-7235.
+-
+- Huang, Xiaohe, Chunsen Liu, and Peng Zhou. "2D semiconductors for specific electronic applications: from device to system." npj 2D Materials and Applications 6, no. 1 (2022): 1-19.[[paper]](https://www.nature.com/articles/s41699-022-00327-3)
+- JJin, Hao, Xiaoxing Tan, Tao Wang, Yunjin Yu, and Yadong Wei. "Discovery of Two-Dimensional Multinary Component Photocatalysts Accelerated by Machine Learning." The Journal of Physical Chemistry Letters 13, no. 31 (2022): 7228-7235.[[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c01862)
 
-- Bhattacharya, Anupam, Ivan Timokhin, Ratnamala Chatterjee, Qian Yang, and Artem Mishchenko. "Machine learning approach to genome of two-dimensional materials with flat electronic bands." arXiv preprint arXiv:2207.09444 (2022).
+- Bhattacharya, Anupam, Ivan Timokhin, Ratnamala Chatterjee, Qian Yang, and Artem Mishchenko. "Machine learning approach to genome of two-dimensional materials with flat electronic bands." arXiv preprint arXiv:2207.09444 (2022).[[paper]](https://arxiv.org/pdf/2207.09444.pdf)
 
 
-- Vahdat, Mohammad Tohidi, Kumar Agrawal Varoon, and Giovanni Pizzi. "Machine-learning accelerated identification of exfoliable two-dimensional materials." arXiv preprint arXiv:2207.12118 (2022).
+- Vahdat, Mohammad Tohidi, Kumar Agrawal Varoon, and Giovanni Pizzi. "Machine-learning accelerated identification of exfoliable two-dimensional materials." arXiv preprint arXiv:2207.12118 (2022).[[paper]](https://arxiv.org/pdf/2207.12118.pdf)
 
 - Moustafa, Hadeel, Peter Mahler Larsen, Morten N. Gjerding, Jens Jørgen Mortensen, Kristian S. Thygesen, and Karsten W. Jacobsen. "Computational exfoliation of atomically thin one-dimensional materials with application to Majorana bound states." Physical Review Materials 6, no. 6 (2022): 064202.
+[[paper]](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.064202#fulltext)
+
+- Deng, Jun, Jinbo Pan, Yanfang Zhang, Yuhui Li, Wenhan Dong, Jiatao Sun, and Shixuan Du. "Screening and Design of Bipolar Magnetic-Semiconducting Monolayers and Heterostructures." ACS Applied Electronic Materials 4, no. 7 (2022): 3232-3239.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsaelm.2c00464)
+
+- Zhang, Yannan, Yan Zhao, Hongying Hou, and Xiao-Hua Yu. "Data-Driven Design of a High-Performance, Two-Dimensional Graphene-Based Seawater Desalination Membrane."[[paper]](https://deliverypdf.ssrn.com/delivery.php?ID=728119126066070069064120072001089022057045004018028059126119002025103033057010116065003035014005065075013087125068098082014111011081121065117043070103037076003081031030080121127006037059000120107066066054110027073079011076084008102122069001107076093076020019088071089113116084101025&EXT=pdf&INDEX=TRUE)
+
+- Wang, Rongyan, Zhenbin Wang, Lingxia Zhang, Qiang Wang, Zhengliang Zhao, Weimin Huang, and Jianlin Shi. "Computation-Aided Discovery and Synthesis of 2D PrOBr Photocatalyst." ACS Energy Letters 7 (2022): 1980-1986.[[paper]](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c00951)
 
 
-- Deng, Jun, Jinbo Pan, Yanfang Zhang, Yuhui Li, Wenhan Dong, Jiatao Sun, and Shixuan Du. "Screening and Design of Bipolar Magnetic-Semiconducting Monolayers and Heterostructures." ACS Applied Electronic Materials 4, no. 7 (2022): 3232-3239.
-
-- Zhang, Yannan, Yan Zhao, Hongying Hou, and Xiao-Hua Yu. "Data-Driven Design of a High-Performance, Two-Dimensional Graphene-Based Seawater Desalination Membrane."
-
-- Wang, Rongyan, Zhenbin Wang, Lingxia Zhang, Qiang Wang, Zhengliang Zhao, Weimin Huang, and Jianlin Shi. "Computation-Aided Discovery and Synthesis of 2D PrOBr Photocatalyst." ACS Energy Letters 7 (2022): 1980-1986.
-
-- Qian, Chen, Ke Zhou, Yunhai Xiong, Xiang Chen, and Zhi Li. "High-Throughput Discovery and Investigation of Auxetic Two-Dimensional Crystals." Chemistry of Materials (2022).
-
-- Moustafa, Hadeel, Peter Mahler Larsen, Morten N. Gjerding, Jens Jørgen Mortensen, Kristian S. Thygesen, and Karsten W. Jacobsen. "Computational exfoliation of atomically thin 1D materials with application to Majorana bound states." arXiv preprint arXiv:2204.00472 (2022).
-
-- Kastuar, S. M., C. E. Ekuma, and Z-L. Liu. "Efficient prediction of temperature-dependent elastic and mechanical properties of 2D materials." Scientific reports 12, no. 1 (2022): 1-8.
+- Kastuar, S. M., C. E. Ekuma, and Z-L. Liu. "Efficient prediction of temperature-dependent elastic and mechanical properties of 2D materials." Scientific reports 12, no. 1 (2022): 1-8.[[paper]](https://www.nature.com/articles/s41598-022-07819-8)
 [focus on property prediction of layered/2D materials]
 
-- Jeon, Sunam, and Youngkuk Kim. "Two-dimensional weak topological insulators in inversion-symmetric crystals." Physical Review B 105, no. 12 (2022): L121101.
+- Jeon, Sunam, and Youngkuk Kim. "Two-dimensional weak topological insulators in inversion-symmetric crystals." Physical Review B 105, no. 12 (2022): L121101.[[paper]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L121101#fulltext)
 
-- Li, Shunning, Zhefeng Chen, Zhi Wang, Mouyi Weng, Jianyuan Li, Mingzheng Zhang, Jing Lu, Kang Xu, and Feng Pan. "Graph-based discovery and analysis of atomic-scale one-dimensional materials." National Science Review 9, no. 6 (2022): nwac028.
+- Li, Shunning, Zhefeng Chen, Zhi Wang, Mouyi Weng, Jianyuan Li, Mingzheng Zhang, Jing Lu, Kang Xu, and Feng Pan. "Graph-based discovery and analysis of atomic-scale one-dimensional materials." National Science Review 9, no. 6 (2022): nwac028.[[paper]](https://academic.oup.com/nsr/article/9/6/nwac028/6537431)
 
-- Nascimento, Gabriel M., Elton Ogoshi, Adalberto Fazzio, Carlos Mera Acosta, and Gustavo M. Dalpian. "High-throughput inverse design and Bayesian optimization of functionalities: spin splitting in two-dimensional compounds." Scientific data 9, no. 1 (2022): 1-18.
+- Nascimento, Gabriel M., Elton Ogoshi, Adalberto Fazzio, Carlos Mera Acosta, and Gustavo M. Dalpian. "High-throughput inverse design and Bayesian optimization of functionalities: spin splitting in two-dimensional compounds." Scientific data 9, no. 1 (2022): 1-18.[[paper]](https://www.nature.com/articles/s41597-022-01292-8)
 
-- Zheng, Weiran, and Lawrence Yoon Suk Lee. "Beyond sonication: Advanced exfoliation methods for scalable production of 2D materials." Matter (2022).
-
-
-- Kabiraj, Arnab, and Santanu Mahapatra. "High-throughput assessment of two-dimensional electrode materials for energy storage devices." Cell Reports Physical Science 3, no. 1 (2022): 100718.
+- Zheng, Weiran, and Lawrence Yoon Suk Lee. "Beyond sonication: Advanced exfoliation methods for scalable production of 2D materials." Matter (2022).[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S2590238521006354)
 
 
-- Sherrell, Peter C., Marco Fronzi, Nick A. Shepelin, Alexander Corletto, David A. Winkler, Mike Ford, Joseph G. Shapter, and Amanda V. Ellis. "A bright future for engineering piezoelectric 2D crystals." Chemical Society Reviews (2022).
+- Kabiraj, Arnab, and Santanu Mahapatra. "High-throughput assessment of two-dimensional electrode materials for energy storage devices." Cell Reports Physical Science 3, no. 1 (2022): 100718.[[paper]](https://www.sciencedirect.com/science/article/pii/S2666386421004483)
 
-- Lu, Shuaihua, Qionghua Zhou, Yilv Guo, and Jinlan Wang. "On-the-fly interpretable machine learning for rapid discovery of two-dimensional ferromagnets with high Curie temperature." Chem 8, no. 3 (2022): 769-783.
 
-- Wan, Zhongyu, and Quan-De Wang. "Machine Learning Prediction of the Exfoliation Energies of Two-Dimension Materials via Data-Driven Approach." The Journal of Physical Chemistry Letters 12, no. 46 (2021): 11470-11475.
+- Sherrell, Peter C., Marco Fronzi, Nick A. Shepelin, Alexander Corletto, David A. Winkler, Mike Ford, Joseph G. Shapter, and Amanda V. Ellis. "A bright future for engineering piezoelectric 2D crystals." Chemical Society Reviews (2022).[[paper]](https://pubs.rsc.org/en/content/articlehtml/2021/xx/d1cs00844g)
 
-- Stanev, Valentin, Kamal Choudhary, Aaron Gilad Kusne, Johnpierre Paglione, and Ichiro Takeuchi. "Artificial intelligence for search and discovery of quantum materials." Communications Materials 2, no. 1 (2021): 1-11.
+- Lu, Shuaihua, Qionghua Zhou, Yilv Guo, and Jinlan Wang. "On-the-fly interpretable machine learning for rapid discovery of two-dimensional ferromagnets with high Curie temperature." Chem 8, no. 3 (2022): 769-783.[[paper]](https://www.sciencedirect.com/science/article/pii/S2451929421005805)
+
+- Wan, Zhongyu, and Quan-De Wang. "Machine Learning Prediction of the Exfoliation Energies of Two-Dimension Materials via Data-Driven Approach." The Journal of Physical Chemistry Letters 12, no. 46 (2021): 11470-11475.[[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03335)
+
+- Stanev, Valentin, Kamal Choudhary, Aaron Gilad Kusne, Johnpierre Paglione, and Ichiro Takeuchi. "Artificial intelligence for search and discovery of quantum materials." Communications Materials 2, no. 1 (2021): 1-11.[[paper]](https://www.nature.com/articles/s43246-021-00209-z)
 
 
 
