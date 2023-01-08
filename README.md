@@ -103,6 +103,7 @@ Foundational Papers
 
 Recent Papers
 - Wang, Hai-Chen, Jonathan Schmidt, Miguel AL Marques, Ludger Wirtz, and Aldo H. Romero. "Symmetry-based computational search for novel binary and ternary 2D materials." arXiv preprint arXiv:2212.03975 (2022).[[paper]](https://arxiv.org/pdf/2212.03975.pdf)
+-Zichi, Laura, et al. "Physically informed machine-learning algorithms for the identification of two-dimensional atomic crystals." arXiv preprint arXiv:2212.00667 (2022).[[papper]](https://arxiv.org/pdf/2212.00667.pdf)
 - Haastrup, Sten, Mikkel Strange, Mohnish Pandey, Thorsten Deilmann, Per S. Schmidt, Nicki F. Hinsche, Morten N. Gjerding et al. "The Computational 2D Materials Database: high-throughput modeling and discovery of atomically thin crystals." 2D Materials 5, no. 4 (2018): 042002. [[paper]](https://iopscience.iop.org/article/10.1088/2053-1583/aacfc1/meta) [C2DB]
 - Gjerding, Morten Niklas, Alireza Taghizadeh, Asbjørn Rasmussen, Sajid Ali, Fabian Bertoldo, Thorsten Deilmann, Nikolaj Rørbæk Knøsgaard et al. "Recent progress of the computational 2D materials database (C2DB)." 2D Materials 8, no. 4 (2021): 044002.[[paper]](https://iopscience.iop.org/article/10.1088/2053-1583/ac1059)[C2DB]
 - Mounet, Nicolas, Marco Gibertini, Philippe Schwaller, Davide Campi, Andrius Merkys, Antimo Marrazzo, Thibault Sohier et al. "Two-dimensional materials from high-throughput computational exfoliation of experimentally known compounds." Nature nanotechnology 13, no. 3 (2018): 246-252.[[paper]](https://doi.org/10.1038/s41565-017-0035-5) [MC2D]
